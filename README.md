@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timmy Tram</h1>
 <h3 align="center">🎓 I graduated from San Francisco State University Majoring in Computer Science 💻 and Minoring in Video Game Studies 🎮</h3>
 
-- 🔭 I’m currently working on [Monster Hunter Wilds Wiki](https://github.com/TimmyTram/mh-wilds-fe)
-
 - 👨‍💻 All of my projects are available at [https://timmytram.github.io/portfolio/](https://timmytram.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
